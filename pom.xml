@@ -11,7 +11,7 @@
 	<groupId>com.shivani</groupId>
 	<artifactId>Ecommmerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Ecommmerce</name>
+	<name>major</name>
 	<description>Major Project, An e commerce project</description>
 
 	<properties>
@@ -79,7 +79,7 @@
 			<artifactId>spring-boot-configuration-processor</artifactId>
 			<optional>true</optional>
 		</dependency>
-		<dependency>
+		<!--<dependency>
 			<groupId>com.paytm</groupId>
 			<artifactId>miniapp-sdk-client</artifactId>
 			<version>1.0.2-SNAPSHOT</version>
@@ -88,7 +88,7 @@
 			<groupId>com.paytm</groupId>
 			<artifactId>paytm-checksum</artifactId>
 			<version>1.2.0</version>
-		</dependency>
+		</dependency>-->
 	</dependencies>
 	<repositories>
 		<repository>

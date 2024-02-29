@@ -1,4 +1,4 @@
-package com.sheryians.major;
+package com.shivani.Ecommmerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
